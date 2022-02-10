@@ -27,4 +27,4 @@ mkdir backupfiles
 xcopy C:\test C:\backupfiles /E
 
 
-rem j'ajoute des info juste pour vérifier si les nouvelles infos sont pushés
+// j'ajoute des info juste pour vérifier si les nouvelles infos sont pushés
